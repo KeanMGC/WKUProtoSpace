@@ -15,3 +15,5 @@ layout: home
 [Laser Cutter]()
 
 [Engraving Machine]()
+
+NEWS:
