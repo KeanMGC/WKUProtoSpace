@@ -16,4 +16,6 @@ layout: home
 
 [Engraving Machine]()
 
+[3D Printers](/3dprint.md)
+
 NEWS:
