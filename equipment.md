@@ -1,4 +1,8 @@
-Equipment
+---
+layout: page
+title: Equipment
+permalink: /equipment/
+---
 
 [CNC / Plasma Machine]()
 
