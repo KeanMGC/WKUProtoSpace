@@ -1,5 +1,5 @@
 3d Printer Information!
 
-[JGAurora]()
+[JGAurora](/JGAurora.md)
 
 [Prusa]()
