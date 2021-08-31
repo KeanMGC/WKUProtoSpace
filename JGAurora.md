@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JGAurora
+title: JGAurora A8s
 permalink: /JGAurora/
 ---
 
