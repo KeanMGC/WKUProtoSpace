@@ -14,37 +14,69 @@ IN THE EVENT OF AN EMERGENCY, PLEASE DIAL 119
 
 
 •	Tools and Machines may only be used AFTER RECEIVING SAFTY TRAINING and signing the safety policy ## [HERE](https://ncv.microsoft.com/gi970xwiSA)
+
 •	Only work with tools and machines that you have been authorized to use
+
 •	No equipment use if you are using any medication or under the inﬂuence of drugs, alchol, etc.
+
 •	You are responsible for your own actions in the shop, put safety ﬁrst
+
 •	NEVER work in the shop alone
+
 •	No loose clothing including ties, necklaces, ﬂoppy sleeves, jewelry, etc.
+
 •	Long hair MUST be tied back
+
 •	Safety glasses MUST be warn at all times
+
 •	Wear non-slippery, thick, leather work shoes, preferably rubber-soled
+
 •	Open-toed footwear is not permitied in the shop
+
 •	Safety guards MUST be in place at all times, ensure guides and fences are tight
+
 •	Report damaged safety guards, machines and tools to the Shop Supervisor or Facility Manager
+
 •	Report unsafe issues to the Shop Supervisor or Facility Manager
+
 •	Keep you work area clean, do not place tools and materials on the machine table
+
 •	Put tools away when you are done using them
+
 •	NEVER leave tools unattended
+
 •	Only one person may work on a machine at a time
+
 •	Keep blades covered as much as possible
+
 •	NEVER push a cutter towards any part of your body
+
 •	NEVER make heavy cuts with planers, jointers, and routers
+
 •	Plywood and particleboard must NOT be worked with the jointer or planer
+
 •	Do not work small pieces on power machinery use hand tools
+
 •	Always secure the work piece with clamps or a vise
+
 •	NEVER remove metal chips, turnings, or shavings with your hands
+
 •	NEVER use compressed air without a safety nozzle to clean machines or clothing
+
 •	No running or horseplay
+
 •	No eating in the shop area
+
 •	Always follow the Shop Supervisor’s directions
+
 •	Report ALL injuriesor incident (even small ones) to the Shop Supervisor or Facility Manager
+
 •	The First Aid Kit is located in the tool crib
+
 •	The Eyewash Station/Flush is located at the shop sink
+
 •	Scan the QR Code for each piece of equipment before use.
+
 
 ## Shop Safety responsability:
 
