@@ -17,7 +17,7 @@ IN AN EMERGENCY, CALL 119
 
 <b>PRIOR TO USE OF THE SHOP PLEASE WATCH THE [SHOP SAFETY VIDEO](https://www.youtube.com/watch?v=Af2PxjBy-G8)</b>
 
-•	Tools / Machines may only be used AFTER RECEIVING SAFTY TRAINING and signing the safety policy [HERE](https://ncv.microsoft.com/gi970xwiSA)
+•	Tools/Machines may only be used AFTER RECEIVING SAFTY TRAINING & signing the safety policy [HERE](https://ncv.microsoft.com/gi970xwiSA)
 
 •	Only work with tools and machines that you have been authorized to use
 
