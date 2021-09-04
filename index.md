@@ -14,7 +14,7 @@ ACCESS TO THE SHOP DURING NON-HOURS OF OPERATIONS IS STRICTLY PROHIBITED
 IN THE EVENT OF AN EMERGENCY, PLEASE DIAL 119
 
 
-•	Tools and Machines may only be used AFTER RECEIVING SAFTY TRAINING and signing the safety policy [HERE](https://ncv.microsoft.com/gi970xwiSA)
+•	Tools / Machines may only be used AFTER RECEIVING SAFTY TRAINING and signing the safety policy [HERE](https://ncv.microsoft.com/gi970xwiSA)
 
 •	Only work with tools and machines that you have been authorized to use
 
