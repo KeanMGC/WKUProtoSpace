@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-_
+
 
 ## SAFETY POLICY
 
