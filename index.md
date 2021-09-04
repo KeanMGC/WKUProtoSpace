@@ -13,7 +13,9 @@ ACCESS TO THE SHOP DURING NON-HOURS OF OPERATIONS IS STRICTLY PROHIBITED
 
 IN THE EVENT OF AN EMERGENCY, PLEASE DIAL 119
 
-## PRIOR TO USE OF THE SHOP PLEASE WATCH THIS [SHOP SAFETY VIDEO](https://www.youtube.com/watch?v=Af2PxjBy-G8)  
+## PRIOR TO USE OF THE SHOP PLEASE WATCH 
+
+THIS: [SHOP SAFETY VIDEO](https://www.youtube.com/watch?v=Af2PxjBy-G8)  
 
 •	Tools / Machines may only be used AFTER RECEIVING SAFTY TRAINING and signing the safety policy [HERE](https://ncv.microsoft.com/gi970xwiSA)
 
