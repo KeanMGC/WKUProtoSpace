@@ -32,7 +32,7 @@ IN THE EVENT OF AN EMERGENCY, PLEASE DIAL 119
 
 •	Wear non-slippery, thick, leather work shoes, preferably rubber-soled
 
-•	Open-toed footwear is not permitied in the shop
+•	Open-toed footwear is not permittied in the shop
 
 •	Safety guards MUST be in place at all times, ensure guides and fences are tight
 
@@ -70,7 +70,7 @@ IN THE EVENT OF AN EMERGENCY, PLEASE DIAL 119
 
 •	Always follow the Shop Supervisor’s directions
 
-•	Report ALL injuriesor incident (even small ones) to the Shop Supervisor or Facility Manager
+•	Report ALL injuries or incidents (even small ones) to the Shop Supervisor or Facility Manager
 
 •	The First Aid Kit is located in the tool crib
 
