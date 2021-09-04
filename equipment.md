@@ -4,20 +4,14 @@ title: Equipment
 permalink: /equipment/
 ---
 
-[Digital Fabrication]()
+[Digital Fabrication](/digfab/)
 
 [Wood Shop](/wood.md)
 
-[Photo Studio]()
+[Photo Studio](/pstudio/)
 
 [HTC VIVE]()
 
 [nreal Augmented Reality equipment 虚拟现实设备]()
 
 [泡沫切割机Foam cutting machines]()
-
-3 small photo booths
-
-lights
-
-large backdrop rigging
