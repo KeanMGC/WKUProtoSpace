@@ -18,7 +18,7 @@ IN THE EVENT OF AN EMERGENCY, PLEASE DIAL 119
 
 •	Only work with tools and machines that you have been authorized to use
 
-•	No equipment use if you are using any medication or under the inﬂuence of drugs, alchol, etc.
+•	No equipment use if you are using any medication or under the inﬂuence of drugs, alcohol, etc.
 
 •	You are responsible for your own actions in the shop, put safety ﬁrst
 
