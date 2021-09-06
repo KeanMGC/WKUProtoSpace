@@ -4,11 +4,11 @@ title: Equipment
 permalink: /equipment/
 ---
 
-[Digital Fabrication](/digfab/)
+[Digital Fabrication](/digfab.md/)
 
 [Wood Shop](/wood.md)
 
-[Photo Studio](/pstudio/)
+[Photo Studio](/pstudio.md/)
 
 [HTC VIVE]()
 
