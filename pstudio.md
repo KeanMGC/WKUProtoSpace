@@ -1,5 +1,5 @@
 [Small photo booths]()
 
-[Lights]
+[Lights]()
 
 [Backdrop rigging]()

@@ -10,8 +10,10 @@ permalink: /equipment/
 
 [Photo Studio](/pstudio.md/)
 
+#####Other Equipment:
+
 [HTC VIVE]()
 
-[nreal Augmented Reality equipment 虚拟现实设备]()
+[虚拟现实设备 nreal Augmented Reality equipment ]()
 
 [泡沫切割机Foam cutting machines]()
