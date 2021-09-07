@@ -4,11 +4,9 @@ title: Digital Fabrication
 permalink: /digfab/
 ---
 
-[DG-1335 CNC Multifunctional Mill DG-1335数控多功能雕刻机](/cnc.md/)
+[DG-1335数控多功能雕刻机 DG-1335 CNC Multifunctional Mill ](/cnc.md/)
 
-[Laser Cutter (Full Size)](/laser.md/)
-
-[laser cutter 桌面激光切割机](/laser.md/)
+[桌面激光切割机 Laser Cutters ](/laser.md/)
 
 [Engraving Machine](/engraver.md/)
 
