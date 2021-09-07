@@ -10,7 +10,7 @@ permalink: /equipment/
 
 [Photo Studio](/pstudio.md/)
 
-#####Other Equipment:
+##### Other Equipment:
 
 [HTC VIVE]()
 
