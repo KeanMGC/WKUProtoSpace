@@ -5,7 +5,7 @@ permalink: /laser/
 ---
 
 
-#####Small Format Lasercutter (AWC7813 Controller)
+##### Small Format Lasercutter (AWC7813 Controller)
 
 [Controller Manual EN](/assets/Equipment/laser/AWC7813CN-Manual.pdf)
 
@@ -14,7 +14,7 @@ permalink: /laser/
 [Software](/assets/Equipment/laser/LaserCADV8.rar)
 
 
-#####Large Format Lasercutter
+##### Large Format Lasercutter
 
 
 
