@@ -12,8 +12,6 @@ loop: true
 ---
 
 * ![Sarry on the tablesaw](/assets/sarry.jpg)
-* ![Robot Lab](assets/robotlab.jpg)
-* ![Screenprinting Room](assets/screenprint.jpg)
 
 
 <h2>SAFETY POLICY</h2>
