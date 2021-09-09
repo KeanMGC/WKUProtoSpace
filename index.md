@@ -9,13 +9,7 @@ layout: home
 ---
 
 
-<section class="main-slides">
-	{% for slide in site.slides %}
-	<article class="slide">
-		<iframe class="slideshow-iframe" src="https://keanmgc.github.io/protospace/_slides/shop01.md/"></iframe>
-	</article>
-	{% endfor %}
-</section>
+{% include image-gallery.html folder="/index/" %}
 
 <h2>SAFETY POLICY</h2>
 
