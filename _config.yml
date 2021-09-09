@@ -7,6 +7,18 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+defaults:
+  -
+    scope:
+      path: "_slides"
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
+
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -58,6 +70,12 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-gist
+ - jekyll-coffeescript
+ - jekyll-assets
+ - another-jekyll-plugin
+
+gem install jekyll-gist jekyll-coffeescript jekyll-assets another-jekyll-plugin
 
 header_pages:
   - about.md
