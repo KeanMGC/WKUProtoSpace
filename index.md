@@ -6,14 +6,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-item: 1
-auto: true
-loop: true
 ---
 
-* ![Sarry on the tablesaw](/assets/sarry.jpg)
-* ![Robot Lab](assets/robotlab.jpg)
-* ![Screenprinting Room](assets/screenprint.jpg)
+<section class="main-slides">
+	{% for slide in site.slides %}
+	<article class="slide">
+		<iframe class="slideshow-iframe" src="https://keanmgc.github.io/protospace/_slides/shop01.md/"></iframe>
+	</article>
+	{% endfor %}
+</section>
 
 
 <h2>SAFETY POLICY</h2>
@@ -98,26 +99,3 @@ IN AN EMERGENCY, CALL 119
 3.	By entering the shop the Releasor acknowledges that it is their responsibility to have fully read and sought clarification on any item on the WKU MGC Prototyping Space Policy and are encouraged to review all aspects of this Release with attorneys of their choice, that they have had the opportunity to consult with attorneys of their choice, that they have carefully read and fully understand all the provisions of this Release and that they are freely, knowingly and voluntarily entering into this Release.
 
 ## NEWS:
-
-<nav>
-	<a class="nav-link" href="https://github.com/lexoyo/jekyll-slideshow/">Jekyll Slideshow</a>
-</nav>
-<section class="main-slides">
-	{% for slide in site.slides %}
-	<article class="slide">
-		<iframe class="slideshow-iframe" src="{{ site.github.url }}{{ slide.url }}"></iframe>
-		<div class="sub-slideshow">
-			<h1>{{ slide.title }}</h1>
-			<a class="edit" href="{{site.github.repository_url}}/edit/gh-pages/{{slide.path}}">Edit</a>
-			<a class="view" href="{{ site.github.url }}{{ slide.url }}">View</a>
-			<a class="embed" href="#">Embed</a>
-			<div class="embed-pane hidden">
-				<p>To embed this slide in a website, add this code to your page:</p>
-				<input class="embed-input"
-					value='&lt;iframe src="{{ site.github.url }}{{ slide.url }}" width="100%" height="100%" style="border: none;"&gt;&lt;/iframe&gt;'
-					spellcheck="false"></input>
-			</div>
-		</div>
-	</article>
-	{% endfor %}
-</section>

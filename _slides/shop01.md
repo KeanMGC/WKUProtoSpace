@@ -1,6 +1,6 @@
 ---
 layout: iframe
-title: My slideshow
+title: shop01.md
 item: 1
 auto: true
 loop: true
