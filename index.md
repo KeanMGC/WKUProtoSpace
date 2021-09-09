@@ -8,6 +8,7 @@
 layout: home
 ---
 
+<<<<<<< HEAD
 <section class="main-slides">
 	{% for slide in site.slides %}
 	<article class="slide">
@@ -15,6 +16,9 @@ layout: home
 	</article>
 	{% endfor %}
 </section>
+=======
+* ![Sarry on the tablesaw](/assets/sarry.jpg)
+>>>>>>> c15284fc34243c9891937cf89d6c248bc0194c82
 
 
 <h2>SAFETY POLICY</h2>
