@@ -10,4 +10,4 @@ We  recommend [puncture resistant gloves](https://s.taobao.com/search?q=%E9%98%B
 
 If you will be working with any sort of non-organic breathable substance we recommend using a [respirator](https://detail.tmall.com/item.htm?spm=a230r.1.14.1.288d5c74IjC2FO&id=35892618413&ns=1&abbucket=2&skuId=4250605785423)
 
-![](https://raw.githubusercontent.com/KeanMGC/protospace/main/index/zoe.png)
+![](https://raw.githubusercontent.com/KeanMGC/protospace/main/assets/zoe.png)
