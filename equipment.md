@@ -3,6 +3,9 @@ layout: page
 title: Equipment
 permalink: /equipment/
 ---
+### Prototyping Space Equipment:
+
+[Required Personal Safety Equipment](/safety.md/)
 
 [Digital Fabrication](/digfab.md/)
 

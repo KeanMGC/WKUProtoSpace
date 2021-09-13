@@ -29,15 +29,7 @@ IN AN EMERGENCY, CALL 119
 
 •	NEVER work in the shop alone
 
-•	No loose clothing including ties, necklaces, ﬂoppy sleeves, jewelry, etc.
-
-•	Long hair MUST be tied back
-
-•	Safety glasses MUST be warn at all times. Purchase yours [here](https://s.taobao.com/search?q=%E9%80%89%E8%B4%AD%E5%AE%89%E5%85%A8%E7%9C%BC%E9%95%9C&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20210904&ie=utf8). We also recommend [puncture resistant gloves](https://s.taobao.com/search?q=%E9%98%B2%E7%A9%BF%E5%88%BA%E6%89%8B%E5%A5%97&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20210904&ie=utf8)
-
-•	Wear non-slippery, thick, leather work shoes, preferably rubber-soled
-
-•	Open-toed footwear is not permittied in the shop
+•	Please refer to the Shop Safety [Personal Safety Equipment](/safety.md/) guidlines
 
 •	Safety guards MUST be in place at all times, ensure guides and fences are tight
 
