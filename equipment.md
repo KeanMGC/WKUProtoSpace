@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prototyping Space Equipment:
-permalink: /equipment.md/
+permalink: /equipment/
 ---
 [Required Personal Safety Equipment](/safety.md/)
 
