@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prototyping Space Equipment:
+title: Equipment
 permalink: /equipment/
 ---
 
