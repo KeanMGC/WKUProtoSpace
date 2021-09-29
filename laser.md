@@ -18,7 +18,7 @@ If you do not have a buddy, even for a brief moment, laser cutter operation must
 
 ###### -Know the location of all fire extinguishers, emergency stop buttons, emergency phone, and emergency exits.
 
-###### -Be sure that you are cutting an approved material.
+###### -Be sure that you are cutting an approved material. (See material selection below)
 
 ###### -Clean up after yourself:
 
@@ -42,3 +42,31 @@ Put scrap pieces that have uncut areas that are at least 3″ x 3″ into the ap
 ##### Large Format Lasercutter
 
 [Software](/assets/Equipment/laser/LargeFormatLasercutter.rar)
+
+
+
+#### Selecting and Procuring Material for the Laser Cutter
+
+
+Some material cannot be used on the laser cutter because:
+
+-the laser isn’t powerful enough to cut through it
+
+-it is flammable
+
+-or it produces dangerous off-gasses.
+
+###### Approved materials: 
+acrylic, mirrored acrylic, cardboard, mat board, hardboard, chipboard, museum board, polystyrene, YUPO synthetic paper, MDF (engineered wood), bass wood, plywood, Delrin
+
+###### Textiles:
+Good: Felt, rayon, tightly woven cotton, wool, most natural materials; OK: loose weaves, knotted material
+
+###### Forbidden materials:
+ABS plastic, mirrored glass (the backing contains mercury), Lexan plastics, polyethylene terephthalate glycol (PETG), foam (of any type), any materials containing chloride or vinyl (e.g. PVC), and wood thicker than 1/4″ (6mm).  Forbidden textiles: flammable synthetics, vinyl, metallic/reflective materials, neoprene, any material with chlorine. Ask IDeATe staff if you are unsure.
+
+###### Danger! Chlorine:
+Do not cut any materials that contain chlorine; they can produce chlorine gas when heated. If you are unsure of the chemical composition of your material, you can check the Material Safety  Data Sheets on the EH&S website. If you have a questions about a material that you would like to cut, please ask a staff member!
+
+###### Metals:
+Our laser cutters are incapable of cutting steel, brass, copper, and other metals.
