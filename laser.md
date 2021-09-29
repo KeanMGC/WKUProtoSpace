@@ -14,7 +14,7 @@ If you do not have a buddy, even for a brief moment, laser cutter operation must
 
 ###### -Prior to operating a laser cutter, clean the laser and make sure it is set to the proper height and scan the QR code.
 
-###### -Follow all safety procedures posted around the Fabrication Lab.
+###### -Follow all safety procedures posted around the WKU MGC prototyping space.
 
 ###### -Know the location of all fire extinguishers, emergency stop buttons, emergency phone, and emergency exits.
 
@@ -56,7 +56,7 @@ Some material cannot be used on the laser cutter because:
 
 -or it produces dangerous off-gasses.
 
-###### Approved materials: 
+###### Approved materials:
 acrylic, mirrored acrylic, cardboard, mat board, hardboard, chipboard, museum board, polystyrene, YUPO synthetic paper, MDF (engineered wood), bass wood, plywood, Delrin
 
 ###### Textiles:
