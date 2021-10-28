@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material">
+  <metadata>
+    <name>
+      <brand>Custom</brand>
+      <material>PLA</material>
+      <color>Generic</color>
+      <label>WKU PLA</label>
+    </name>
+    <setting_version>1</setting_version>
+    <version>1</version>
+    <color_code>#ffc924</color_code>
+    <adhesion_info />
+    <description />
+    <compatible>True</compatible>
+    <GUID>6e6c58df-0f0b-462b-9372-38c67fba291b</GUID>
+  </metadata>
+  <properties>
+    <diameter>1.75</diameter>
+    <density>1.24</density>
+  </properties>
+  <settings>
+    <setting key="print temperature">210.0</setting>
+    <setting key="heated bed temperature">60</setting>
+    <setting key="standby temperature">175</setting>
+  </settings>
+</fdmmaterial>
