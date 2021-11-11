@@ -4,9 +4,9 @@ The maximum dimensions of the machine are 2400mm x 1200mm. The controller is a [
 
 You can find resources for the machine [HERE](https://wzku-my.sharepoint.com/:f:/g/personal/spencers_wku_edu_cn/EoJ2IyhylPhMid5fTw8rP70BqSALk0J_PSR9lEeSHX1UqA?e=q7EtRQ), and the machine zero (MCS) is at:
 
-X: -492.918
-Y: -570.864
-Z: -7.203
+X: -492.918 <br>
+Y: -570.864 <br>
+Z: -7.203 <br>
 
 (the z value is for the current bit setup and will change when you change the bit).
 
