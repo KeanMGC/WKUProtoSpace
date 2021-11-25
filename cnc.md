@@ -10,6 +10,10 @@ Z: -7.203 <br>
 
 (the z value is for the current bit setup and will change when you change the bit).
 
+You can prepare your mesh file using the following tutorial:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tVGtG-UjlYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ![](https://raw.githubusercontent.com/KeanMGC/protospace/main/index/digfab.jpg)
