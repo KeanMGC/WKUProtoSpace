@@ -2,7 +2,7 @@
 
 <br>You are responsible for your own safety. You can only use the shop if you meet the following safety requirements:
 
--You must watch the safety training video
+-You must watch the [safety training video](https://www.youtube.com/watch?v=Af2PxjBy-G8)
 
 -You mush attend the shop training and pass the in class quiz
 
